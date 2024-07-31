@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(149, 184, 255);
+}
+
+.dark body {
+    background-color: black;
+}
+
+.light p {
+    background-color: rgb(149, 184, 255);
+    color: black;
+}
+
+.dark p {
+    background-color: black;
+    color: white;
+
+}
+
